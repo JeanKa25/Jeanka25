@@ -21,8 +21,8 @@ Welcome to my GitHub portfolio! I'm a software engineering student at McGill Uni
 - Worked in a group of 6 people using agile development and SCRUM methodologies.
 
 ### [Docker Containerization](https://github.com/JeanKa25/Docker-Containerization) (Docker)
--Applied web development skills in Python, PHP, Bash, and REST to optimize web applications.
--Implemented Docker to efficiently deploy and manage company websites, enhancing operational flexibility, scalability, and portability.
+- Applied web development skills in Python, PHP, Bash, and REST to optimize web applications.
+- Implemented Docker to efficiently deploy and manage company websites, enhancing operational flexibility, scalability, and portability.
 
 ### Password Finder Script (Bash)
 - A secure script for password retrieval, focusing on user-friendly design and data encryption.
