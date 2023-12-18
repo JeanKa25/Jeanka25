@@ -24,8 +24,8 @@ Welcome to my GitHub portfolio! I'm a software engineering student at McGill Uni
 - Applied web development skills in Python, PHP, Bash, and REST to optimize web applications.
 - Implemented Docker to efficiently deploy and manage company websites, enhancing operational flexibility, scalability, and portability.
 
-### Password Finder Script (Bash)
-- A secure script for password retrieval, focusing on user-friendly design and data encryption.
+### [Password Finder Script](https://github.com/JeanKa25/Password-Finder) (Bash)
+- A secure Bash script for password retrieval, focusing on user-friendly design and data encryption.
 
 ## Connect with Me
 
