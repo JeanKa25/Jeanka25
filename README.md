@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I'm a software engineering student at McGill Uni
 - Applied web development skills in Python, PHP, Bash, and REST to optimize web applications.
 - Implemented Docker to efficiently deploy and manage company websites, enhancing operational flexibility, scalability, and portability.
 
-### [McPool]([https://github.com/JeanKa25/Password-Finder](https://github.com/YazdanZ/McGill-ECSE428-Project)) (ReactJs, Flask)
+### [McPool](https://github.com/YazdanZ/McGill-ECSE428-Project) (ReactJs, Flask)
 - Implemented a web platform tailored for students to facilitate carpooling to and back from school.
 - Featured an interactive map for drivers, along with user-friendly login and registration pages.
 
