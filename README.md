@@ -16,6 +16,12 @@ Welcome to my GitHub portfolio! I'm a software engineering student at McGill Uni
 
 ## 💼 Projects
 
+### [Redesigning JAMScript Tools for High-Performance and Scalability](https://github.com/JeanKa25/JAMScript) (C, JavaScript, Docker, Bash)
+- Transitioned JAMScript tools from a standalone architecture to a scalable, multi-server client-server design using an ExpressJS server setup with peer-to-peer server communication.
+- Achieved the capability to run over 1000 JAMScript nodes simultaneously using the redesigned client-server architecture.
+- Implemented secure server-client communications using SSH and contributed to multi-server architecture for enhanced performance and scalability.
+- Containerized JAMScript tools with Docker, ensuring consistent environments, preventing port conflicts during deployment, and enhancing performance by 30%.
+
 ### [Museum Website](https://github.com/McGill-ECSE321-Fall2022/project-group-07) (Java, Spring, MySQL)
 - A fully interactive museum website with user authentication and agile development approach.
 - Worked in a group of 6 people using agile development and SCRUM methodologies.
